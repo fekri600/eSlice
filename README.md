@@ -60,16 +60,16 @@ This will:
 
 This framework is modular and fully customizable:
 
-- 🔹 Modify **hierarchical slices and virtual node setup** in  
+- Modify **hierarchical slices and virtual node setup** in  
   `VirtualNetworkManager.py`
 
-- 🔹 Adjust the **substrate network's topology and resource capacities** in  
+- Adjust the **substrate network's topology and resource capacities** in  
   `SubstrateNetworkManager.py`
 
-- 🔹 Simulate different **service request types and traffic demands** in  
+- Simulate different **service request types and traffic demands** in  
   `RequestManager.py`
 
-- 🔹 Tune **QoS-based resource requirement formulas** (CPU, RAM, Storage, PRBs, Bandwidth) in  
+- Tune **QoS-based resource requirement formulas** (CPU, RAM, Storage, PRBs, Bandwidth) in  
   `ResourcesManagement.py`
 
 This design allows you to simulate a wide range of 5G and smart city deployment scenarios.
