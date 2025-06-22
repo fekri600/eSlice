@@ -5,7 +5,7 @@ This repository provides a modular simulation framework for dynamic resource all
 
 ---
 
-## 📌 Overview
+## Overview
 
 The simulation framework includes:
 - A substrate network representing physical infrastructure.
@@ -17,7 +17,7 @@ It is designed for research and experimentation in intelligent network managemen
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 | File                         | Description |
 |------------------------------|-------------|
@@ -31,7 +31,7 @@ It is designed for research and experimentation in intelligent network managemen
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 Ensure you have Python 3.8+ installed.
 
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## Usage
 
 Run the full simulation using:
 
@@ -56,7 +56,7 @@ This will:
 
 ---
 
-## 🔧 Customize
+## Customize
 
 This framework is modular and fully customizable:
 
@@ -76,7 +76,7 @@ This design allows you to simulate a wide range of 5G and smart city deployment 
 
 ---
 
-## 📊 Outputs
+## Outputs
 
 - Trained models: `model_weights/`
 - Logs and events: `logs/`
@@ -84,7 +84,7 @@ This design allows you to simulate a wide range of 5G and smart city deployment 
 
 ---
 
-## 🧪 Future Work
+## Future Work
 
 - Real-time visualization of virtual-to-substrate mappings.
 - Graph theory based arguments for configurable topologies and resource allocation patterns.
@@ -92,18 +92,18 @@ This design allows you to simulate a wide range of 5G and smart city deployment 
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
 
 ---
 
-## 📬 Citation
+## Citation
 
 comming soon.
