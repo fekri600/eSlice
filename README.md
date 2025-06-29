@@ -16,7 +16,8 @@ The simulation framework includes:
 It is designed for research and experimentation in intelligent network management, network slicing, and edge computing.
 
 ---
-
+![diagram](eSlice-diagram.png)
+---
 ## Project Structure
 
 | File                         | Description |
